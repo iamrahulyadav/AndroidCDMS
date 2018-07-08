@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content" >
+
+	<RelativeLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_margin="16dp" >
+
+	    <TextView
+	        android:id="@+id/number"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="Number"
+	        android:layout_marginTop="15dp"
+	        android:ems="5"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	    <TextView
+	        android:id="@+id/plan_name"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentTop="true"
+	        android:layout_marginTop="15dp"
+	        android:layout_marginStart="130dp"
+	        android:ems="10"
+	        android:text="Medium Text"
+	        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+		<TextView
+			android:id="@+id/plan_url"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentTop="true"
+			android:layout_marginTop="15dp"
+			android:layout_marginStart="130dp"
+			android:ems="10"
+			android:visibility="invisible"
+			android:text="Medium Text"
+			android:textAppearance="?android:attr/textAppearanceMedium" />
+
+		<!--<ImageView
+			android:id="@+id/plan_view"
+			android:layout_width="75dp"
+			android:layout_height="55dp"
+			android:layout_marginTop="15dp"
+			android:layout_marginStart="520dp"
+			android:clickable="true"
+			android:visibility="invisible"
+			android:src="@drawable/pdflogo" />-->
+
+		<Button
+			android:id="@+id/plan_view"
+			android:layout_width="160dp"
+			android:layout_height="wrap_content"
+			android:layout_alignParentTop="true"
+			android:layout_marginTop="10dp"
+			android:layout_marginStart="350dp"
+			android:background="@color/btn_logut_bg"
+			android:textColor="@color/white"
+			android:visibility="invisible"
+			android:text="PDF öffnen"
+			/>
+
+		<Button
+			android:id="@+id/edit_plan"
+			android:layout_width="120dp"
+			android:layout_height="wrap_content"
+			android:layout_alignParentTop="true"
+			android:layout_marginStart="530dp"
+			android:text="bearbeiten"
+			android:layout_marginTop="10dp"
+			android:background="@color/btn_logut_bg"
+			android:textColor="@color/white" />
+
+	        
+	</RelativeLayout>
+   
+</FrameLayout>

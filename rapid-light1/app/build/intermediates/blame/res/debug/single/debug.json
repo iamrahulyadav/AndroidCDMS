@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_plan.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\layout\\add_plan.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cbchk_blue.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-xhdpi\\cbchk_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cbchk_blue.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-mdpi\\cbchk_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cbchk_no.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-xxhdpi\\cbchk_no.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cbchk_no.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-mdpi\\cbchk_no.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pdf1.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-hdpi\\pdf1.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_project.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\layout\\add_project.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_thumbnail_mdcs.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-xhdpi\\ic_thumbnail_mdcs.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_action_bar_add.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-hdpi\\action_bar_add.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cbchk_no.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-xxxhdpi\\cbchk_no.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_action_save.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-hdpi\\action_save.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_cbchk_blue.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-xxxhdpi\\cbchk_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pdflogo.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-hdpi\\pdflogo.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cbchk_blue.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-xxhdpi\\cbchk_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_thumbnail_mdcs.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_thumbnail_mdcs.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cbchk_no.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-xhdpi\\cbchk_no.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_custom_button.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-hdpi\\custom_button.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cbchk_no.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-hdpi\\cbchk_no.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_thumbnail_mdcs.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_thumbnail_mdcs.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\layout_position_list_item.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\layout\\position_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cbchk_blue.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-hdpi\\cbchk_blue.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.jpg.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-hdpi\\splash.jpg"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_thumbnail_mdcs.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-mdpi\\ic_thumbnail_mdcs.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\xml_checkbox.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\xml\\checkbox.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\layout_plan_list_item.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\layout\\plan_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_position.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\layout\\add_position.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_thumbnail_mdcs.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-hdpi\\ic_thumbnail_mdcs.png"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\layout_project_list_item.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\layout\\project_list_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\menu_add_project.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\menu\\add_project.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

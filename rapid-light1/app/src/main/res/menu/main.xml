@@ -1,0 +1,49 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="de.codenis.mdcs.MainActivity"
+    android:layout_width="700dp">
+
+    <item
+        android:id="@+id/add_project"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:layout_width="wrap_content"
+        android:title="@string/add_project"/>
+    <!--android:icon="@drawable/action_bar_add"-->
+
+    <item
+        android:id="@+id/upload_project"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:orderInCategory="100"
+        android:title="Projekte auf Server laden" />
+    <item
+        android:id="@+id/download_project"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:orderInCategory="100"
+        android:title="Projekte auf Tablet laden" />
+    <item
+        android:id="@+id/clear_project"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+         android:layout_width="wrap_content"
+         android:layout_height="fill_parent"
+        android:title="Aufräumen"/>
+     
+      <!--<item
+        android:id="@+id/export_project"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Export"/>-->
+    
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:title="Logout"/>
+    
+
+</menu>

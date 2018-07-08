@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\rapid-light1\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "D:\\Android\\rapid-light1\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "10,35,22,28",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "394,1552,992,1264",
+                        "endLines": "19,38,25,32",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "926,1794,1191,1501"
+                    },
+                    "to": {
+                        "startLines": "2,12,16,20",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,592,839,1043",
+                        "endLines": "11,15,19,24",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "587,834,1038,1280"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile Data Collecting System</string>
+    <string name="action_settings">Settings</string>
+    <string name="login_text">Login</string>
+    <string name="login_content_discription">Login</string>
+    <string name="login_button">Login</string>
+    <string name="username">Loginname</string>
+    <string name="password">Passwort</string>
+    <string name="save">Speichern</string>
+    <string name="back">Zurück</string>
+    <string name="station_name">Name Bericht</string>
+    <string name="station_number">Projektnummer</string>
+    <string name="object">Objekt</string>
+    <string name="auftraggeber">Auftraggeber </string>
+    <string name="address">Address</string>
+    <string name="create_date">Datum</string>
+    <string name="visit_date">Datum Begehung</string>
+    <string name="visitor">Begehung durch</string>
+    <string name="upload_photo">upload Foto</string>
+    <string name="upload_plan">upload</string>
+    <string name="name_plan1">Name Plan 1</string>
+    <string name="name_plan2">Name Plan 2</string>
+    <string name="name_plan3">Name Plan 3</string>
+    <string name="name_plan4">Name Plan 4</string>
+    <string name="name_plan5">Name Plan 5</string>
+    <string name="photo1">upload Foto 1</string>
+    <string name="photo2">upload Foto 2</string>
+    <string name="search_projects">Projekte suchen</string>
+    <string name="add_project">Neues Projekt anlegen</string>
+     <string name="position_number">Pos.Nr/Plan.Nr</string>
+    <string name="plan_number">Plan.Nr</string>
+     <string name="toxic">Schadstoff</string>
+     <string name="description_topic">Beschreibung 1</string>
+     <string name="description">Beschreibung</string>
+    <string name="investigation">Position beprobt</string>
+    <string name="priority">Sanierungsdringlichkeit</string>
+     <string name="degree">Ausmass</string>
+     <string name="remark">Bemerkung</string>
+  
+         
+    <string-array name="visitor_list">
+        	<item>No entries</item>
+        	<item>Dummy Enties</item>
+			<item>2nd</item>
+			<item>3rd</item>
+			<item>4th</item>
+			<item>5th</item>
+	</string-array>
+
+    <string-array name="topic_list">
+        <item>No entries</item>
+        <item>Dummy Enties</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+    </string-array>
+
+
+    <string-array name="substance_list">
+        <item>No entries</item>
+        <item>Dummy Enties</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+    </string-array>
+
+    <string-array name="priority_list">
+        <item>keine</item>
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+    </string-array>
+    
+
+</resources>

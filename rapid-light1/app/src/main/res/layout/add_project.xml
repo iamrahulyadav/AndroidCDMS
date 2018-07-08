@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:scrollbars="none"
+    android:background="@color/bg_register"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+ 
+<RelativeLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:focusable="true"
+	android:focusableInTouchMode="true" 
+	android:background="@color/bg_register"
+	android:padding="50dp"
+    tools:context="de.codenis.mdcs.AddProjectActivity" >
+
+    	<!-- <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/station_name" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+        <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/station_number" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:text="@string/address" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+      <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:text="@string/visit_date" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+      <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:text="@string/visitor" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+      <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:text="@string/upload_photo" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+      <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:text="@string/upload_plan" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+      
+ -->		
+ 		<TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/station_name" 
+        android:textSize="22sp"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/whiteDull"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+ 		<EditText
+            android:id="@+id/station_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:hint="@string/station_name"
+            android:padding="10dp"
+            android:textSize="22sp"
+	       	android:singleLine="true"
+	       	android:textColorHint="@color/input_register_hint"
+	       	android:background="@color/white" />
+           
+ 		<TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/station_number"
+        android:textSize="22sp"
+        android:layout_marginTop="120dp"
+        android:textColor="@color/whiteDull" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+ 		
+      	<EditText
+            android:id="@+id/station_number"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="150dp"
+            android:hint="@string/station_number"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textSize="22sp"
+            android:textColorHint="@color/input_register_hint"
+	       	android:background="@color/white" />
+
+	<TextView
+		android:id="@+id/textView3"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/object"
+		android:textSize="22sp"
+		android:layout_marginTop="220dp"
+		android:textColor="@color/whiteDull"
+		android:textAppearance="?android:attr/textAppearanceMedium" />
+	<EditText
+		android:id="@+id/object"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="250dp"
+		android:hint="@string/object"
+		android:inputType="textPostalAddress"
+		android:textSize="22sp"
+		android:padding="10dp"
+		android:textColorHint="@color/input_register_hint"
+		android:background="@color/white" />
+
+
+	<TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/address" 
+        android:textSize="22sp"
+        android:layout_marginTop="320dp"
+        android:textColor="@color/whiteDull" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+	    <EditText
+            android:id="@+id/address"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="350dp"
+            android:hint="@string/address"
+            android:inputType="textPostalAddress"
+            android:textSize="22sp"
+            android:padding="10dp"           
+            android:textColorHint="@color/input_register_hint"
+	       	android:background="@color/white" />
+
+	<TextView
+		android:id="@+id/textView5"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="@string/auftraggeber"
+		android:textSize="22sp"
+		android:layout_marginTop="420dp"
+		android:textColor="@color/whiteDull"
+		android:textAppearance="?android:attr/textAppearanceMedium" />
+	<EditText
+		android:id="@+id/auftraggeber"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="450dp"
+		android:hint="@string/auftraggeber"
+		android:inputType="textPostalAddress"
+		android:textSize="22sp"
+		android:padding="10dp"
+		android:textColorHint="@color/input_register_hint"
+		android:background="@color/white" />
+
+	<TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/visit_date" 
+        android:textSize="22sp"
+        android:layout_marginTop="520dp"
+        android:textColor="@color/whiteDull"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+	<!--      <EditText
+            android:id="@+id/visit_date"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="350dp"
+            android:onClick="setDate"
+            android:padding="10dp"
+            android:singleLine="true"
+            android:textSize="22sp"
+            android:textColorHint="@color/input_register_hint"
+	       	android:background="@color/white" >
+        </EditText> -->
+        <Button
+            android:id="@+id/visit_date"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+          	android:layout_marginTop="550dp"
+            android:onClick="setDate"
+            android:padding="10dp"
+            android:textSize="22sp"
+            android:textColorHint="@color/input_register_hint"
+	       	android:background="@color/grey" />
+        
+	     
+	    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/visitor" 
+        android:textSize="22sp"
+        android:layout_marginTop="520dp"
+        android:layout_marginStart="350dp"
+        android:textColor="@color/whiteDull" 
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+	     <Spinner
+            android:id="@+id/visitor"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+          	android:layout_marginTop="550dp"
+          	android:layout_marginStart="350dp"
+          	android:maxHeight="450dp"
+          	android:entries="@array/visitor_list"
+          	android:textColorHint="@color/input_register_hint"
+	       	android:background="@color/grey"/>
+
+	     <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="164dp"
+	        android:layout_height="164dp"
+	        android:layout_marginTop="620dp"
+	        android:src="@drawable/ic_launcher" />
+	     
+	    <Button
+            android:id="@+id/upload_image"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+          	android:layout_marginTop="800dp"
+          	android:onClick="selectImage"
+            android:text="@string/upload_photo"
+            android:textSize="22sp"
+            android:textColorHint="@color/input_register_hint"
+	       	android:background="@color/grey" />
+
+
+	<Button
+		android:id="@+id/add_plan"
+		android:layout_width="200dp"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/visitor"
+		android:layout_marginStart="350dp"
+		android:layout_marginTop="40dp"
+		android:onClick="onNewPlan"
+		android:text="neuen Plan erstellen"
+		android:background="@color/btn_logut_bg"
+		android:textColor="@color/white"
+		android:textColorHint="@color/input_register_hint"
+		android:visibility="invisible" />
+
+	<Button
+		android:id="@+id/save"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentStart="true"
+		android:layout_below="@+id/upload_image"
+		android:layout_marginTop="40dp"
+		android:background="#ea4c88"
+		android:onClick="onSave"
+		android:text="@string/save"
+		android:textColor="@color/white" />
+
+         <Button
+            android:id="@+id/back"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+			 android:layout_below="@+id/save"
+			 android:layout_marginTop="40dp"
+            android:onClick="onBack"
+            android:text="@string/back"
+            android:background="#ea4c88"
+       		android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/add_position"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+			android:layout_below="@+id/save"
+			android:layout_marginTop="40dp"
+            android:layout_marginStart="250dp"
+            android:onClick="onNewPosition"
+            android:text="neue Position"
+            android:visibility="invisible"
+            android:background="#ea4c88"
+       		android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/delete"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+			android:layout_below="@+id/save"
+			android:layout_marginTop="40dp"
+			android:layout_marginStart="500dp"
+            android:layout_marginEnd="25dp"
+            android:onClick="onDeleteProject"
+            android:text="Projekt löschen"
+            android:visibility="invisible"
+            android:background="#ea4c88"
+       		android:textColor="@color/white" />
+
+		<ListView
+			android:id="@+id/plan_list"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:layout_below="@+id/add_position"
+			android:layout_marginTop="50dp"
+			android:background="@color/grey">
+		</ListView>
+
+        <ListView
+            android:id="@+id/position_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+			android:layout_below="@+id/plan_list"
+            android:layout_marginTop="50dp"
+            android:background="@color/grey">
+        </ListView>
+</RelativeLayout>
+
+</ScrollView> 
