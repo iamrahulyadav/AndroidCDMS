@@ -175,7 +175,7 @@ public class DBAdapter
 	
 	public List<PositionModel> getPositions(long id) {
 		
-		String select = "SELECT * FROM " + POSITION_DATABASE_TABLE + " WHERE project_id = '" + id + "'";
+		String select = "SELECT * FROM " + POSITION_DATABASE_TABLE + " WHERE project_id = '" + id + "' ORDER BY cast(position_number as unsigned) ASC";
 		Log.d("my", "selecting Positions "+ select);
 		Cursor c = mDb.rawQuery(select, null);
 		
@@ -412,7 +412,7 @@ public class DBAdapter
 	
 	public ArrayList<String> get(String selectField, String Table)
 	{
-		String select = "SELECT * FROM " + Table;	//+ " ORDER BY "+selectField+" ASC";
+		String select = "SELECT * FROM " + Table+ " ORDER BY "+selectField+" COLLATE NOCASE ASC";
 		Log.d("my", select);
 		Cursor c = mDb.rawQuery(select, null);
 		

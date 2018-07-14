@@ -65,21 +65,76 @@
             <state relative-caret-position="22000">
               <caret line="933" column="66" lean-forward="false" selection-start-line="933" selection-start-column="57" selection-end-line="933" selection-end-column="66" />
               <folding>
-                <element signature="imports" expanded="false" />
+                <marker date="1525979614100" expanded="true" signature="6642:7019" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="6738:6762" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="6861:6885" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="6946:7014" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="7326:7497" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="7405:7492" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="7635:7826" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="7896:8060" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="8172:8348" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="8277:8337" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="8412:8782" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="8826:8859" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="8927:9111" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="9185:9391" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="9473:9859" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="9942:10968" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="11013:12230" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="11387:12199" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="11467:12191" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="12270:12739" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="12832:15919" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="13335:13505" ph="//..." />
+                <marker date="1525979614100" expanded="true" signature="15967:16971" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="17064:18088" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="18136:18999" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="19035:20959" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="20997:21314" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="21350:22283" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="21620:21875" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="21683:21869" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="21955:22092" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="22033:22086" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="22331:23420" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="22602:22935" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="22665:22929" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="23015:23152" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="23093:23146" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="23457:24535" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="23728:24057" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="23791:24051" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="24137:24274" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="24215:24268" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="24580:25452" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="25029:25439" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="25104:25434" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="25506:26083" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="26143:26693" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="26738:26826" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="26889:27202" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="27271:27369" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="27425:28472" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="28528:29698" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="28820:29186" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="28883:29180" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="29266:29402" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="29344:29396" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="29746:30857" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="30028:30373" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="30090:30368" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="30452:30582" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="30528:30577" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="30861:30967" ph="/**...*/" />
+                <marker date="1525979614100" expanded="true" signature="31040:31249" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="31101:31188" ph="//..." />
+                <marker date="1525979614100" expanded="true" signature="31339:31504" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="31516:31575" ph="/**...*/" />
+                <marker date="1525979614100" expanded="true" signature="31624:31700" ph="{...}" />
+                <marker date="1525979614100" expanded="true" signature="31710:31754" ph="/**...*/" />
+                <marker date="1525979614100" expanded="true" signature="31826:32668" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project_list_item.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/project_list_item.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -87,20 +142,28 @@
       <file leaf-file-name="AddPositionActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/AddPositionActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9375">
-              <caret line="422" column="79" lean-forward="false" selection-start-line="422" selection-start-column="79" selection-end-line="422" selection-end-column="79" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="99" column="31" lean-forward="false" selection-start-line="99" selection-start-column="31" selection-end-line="99" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/LoginActivity.java">
+      <file leaf-file-name="PositionModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/PositionModel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3225">
-              <caret line="155" column="14" lean-forward="false" selection-start-line="155" selection-start-column="14" selection-end-line="155" selection-end-column="14" />
+            <state relative-caret-position="-31">
+              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBHelper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/DBHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -108,25 +171,33 @@
       </file>
       <file leaf-file-name="activity_login.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-          <provider selected="true" editor-type-id="android-designer2">
-            <state />
-          </provider>
           <provider editor-type-id="text-editor">
             <state relative-caret-position="50">
               <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="39" />
               <folding />
             </state>
           </provider>
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3820">
-              <caret line="936" column="66" lean-forward="false" selection-start-line="936" selection-start-column="66" selection-end-line="936" selection-end-column="66" />
-              <folding>
-                <marker date="1528398934155" expanded="true" signature="3643:3824" ph="{...}" />
-              </folding>
+            <state relative-caret-position="344">
+              <caret line="951" column="34" lean-forward="false" selection-start-line="951" selection-start-column="34" selection-end-line="951" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlanModel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/PlanModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -134,19 +205,9 @@
       <file leaf-file-name="DBAdapter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/DBAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3350">
-              <caret line="147" column="16" lean-forward="false" selection-start-line="147" selection-start-column="16" selection-end-line="147" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#927#928#0" expanded="false" />
-                <element signature="e#953#954#0" expanded="false" />
-                <element signature="e#1124#1125#0" expanded="false" />
-                <element signature="e#1148#1149#0" expanded="false" />
-                <element signature="e#12998#12999#0" expanded="false" />
-                <element signature="e#13068#13069#0" expanded="false" />
-                <element signature="e#13204#13205#0" expanded="false" />
-                <element signature="e#13276#13277#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -166,21 +227,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3025">
               <caret line="152" column="39" lean-forward="false" selection-start-line="152" selection-start-column="39" selection-end-line="152" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="36" column="2" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -199,9 +245,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>selectPlan</find>
-      <find>addPosition</find>
-      <find>problem upload</find>
       <find>problem to upload</find>
       <find>Problem to upload</find>
       <find>projectPlansList</find>
@@ -229,6 +272,9 @@
       <find>deleteP</find>
       <find>SERVER_FILES_ACCESS_URL</find>
       <find>getFiles</find>
+      <find>Download(</find>
+      <find>ASC</find>
+      <find>Some problem in saving</find>
     </findStrings>
     <replaceStrings>
       <replace>plan</replace>
@@ -2002,7 +2048,6 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/DBHelper.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/AddPlanActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/DBAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/add_plan.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/PlanListAdapter.java" />
@@ -2015,6 +2060,7 @@
         <option value="$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/AddProjectActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/AddPositionActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/DBAdapter.java" />
       </list>
     </option>
   </component>
@@ -2039,7 +2085,69 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rapid-light1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rapid-light1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.other.NonAndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rapid-light1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.other.NonAndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.other.NonAndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rapid-light1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.other.NonAndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.other.NonAndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2214,68 +2322,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rapid-light1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rapid-light1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.other.NonAndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rapid-light1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.other.NonAndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.other.NonAndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rapid-light1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.other.NonAndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.other.NonAndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="support" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2381,7 +2427,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1530959144637" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1531342399721" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2429,7 +2475,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1530959144642" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1531342399721" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2591,7 +2637,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1530959144644" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1531342399725" />
       </method>
     </configuration>
     <list size="1">
@@ -2633,10 +2679,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="0" />
+    <frame x="-11" y="-11" width="1942" height="1042" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32858837" sideWeight="0.49785176" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32858837" sideWeight="0.49785176" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977462" sideWeight="0.48711064" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2647,7 +2693,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977462" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3594306" sideWeight="0.9006445" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3594306" sideWeight="0.9006445" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
@@ -2711,13 +2757,13 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="21" column="44" lean-forward="false" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/OneDrive/Dokumente/AndroidStudio/DeviceExplorer/samsung-sm_t580-520033b3b89bc47b/data/local/tmp/de.kuzomedia.rapidlight-build-id.txt" />
@@ -2725,23 +2771,23 @@
     <entry file="file://$USER_HOME$/OneDrive/Dokumente/AndroidStudio/DeviceExplorer/samsung-sm_t580-520033b3b89bc47b/data/data/de.codenis.rapidlight/databases/rapid-light-db" />
     <entry file="file://$USER_HOME$/OneDrive/Dokumente/AndroidStudio/DeviceExplorer/samsung-sm_t580-520033b3b89bc47b/data/local/tmp/de.codenis.rapidlight-build-id.txt" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/add_project.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/main.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/pop_window_menu.xml" />
@@ -2775,13 +2821,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/custom_button.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_thumbnail_rapidlight.png" />
@@ -2852,29 +2898,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/PlanModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/PositionModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/DBHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="56" column="21" lean-forward="false" selection-start-line="56" selection-start-column="15" selection-end-line="56" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/AddPlanActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -2884,14 +2907,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/add_position.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="137" column="24" lean-forward="false" selection-start-line="137" selection-start-column="24" selection-end-line="137" selection-end-column="24" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
@@ -2903,9 +2926,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/add_plan.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="20" column="44" lean-forward="false" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
@@ -2916,27 +2936,29 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/position_list_item.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/position_list_item.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="46" column="38" lean-forward="false" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/plan_list_item.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/plan_list_item.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1848">
           <caret line="74" column="44" lean-forward="false" selection-start-line="73" selection-start-column="12" selection-end-line="74" selection-end-column="44" />
-          <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/ProjectListAdapter.java">
@@ -2948,14 +2970,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/add_project.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7900">
           <caret line="316" column="40" lean-forward="false" selection-start-line="316" selection-start-column="40" selection-end-line="316" selection-end-column="40" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/PlanListAdapter.java">
@@ -2988,35 +3010,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/project_list_item.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
+      <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="36" column="2" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/AddPositionActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9375">
-          <caret line="422" column="79" lean-forward="false" selection-start-line="422" selection-start-column="79" selection-end-line="422" selection-end-column="79" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/LoginActivity.java">
@@ -3028,14 +3040,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml">
-      <provider selected="true" editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="39" />
           <folding />
         </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/Config.java">
@@ -3050,27 +3062,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3025">
           <caret line="152" column="39" lean-forward="false" selection-start-line="152" selection-start-column="39" selection-end-line="152" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/DBAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3350">
-          <caret line="147" column="16" lean-forward="false" selection-start-line="147" selection-start-column="16" selection-end-line="147" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#927#928#0" expanded="false" />
-            <element signature="e#953#954#0" expanded="false" />
-            <element signature="e#1124#1125#0" expanded="false" />
-            <element signature="e#1148#1149#0" expanded="false" />
-            <element signature="e#12998#12999#0" expanded="false" />
-            <element signature="e#13068#13069#0" expanded="false" />
-            <element signature="e#13204#13205#0" expanded="false" />
-            <element signature="e#13276#13277#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -3079,18 +3071,124 @@
         <state relative-caret-position="22000">
           <caret line="933" column="66" lean-forward="false" selection-start-line="933" selection-start-column="57" selection-end-line="933" selection-end-column="66" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <marker date="1525979614100" expanded="true" signature="6642:7019" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="6738:6762" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="6861:6885" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="6946:7014" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="7326:7497" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="7405:7492" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="7635:7826" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="7896:8060" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="8172:8348" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="8277:8337" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="8412:8782" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="8826:8859" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="8927:9111" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="9185:9391" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="9473:9859" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="9942:10968" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="11013:12230" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="11387:12199" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="11467:12191" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="12270:12739" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="12832:15919" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="13335:13505" ph="//..." />
+            <marker date="1525979614100" expanded="true" signature="15967:16971" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="17064:18088" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="18136:18999" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="19035:20959" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="20997:21314" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="21350:22283" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="21620:21875" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="21683:21869" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="21955:22092" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="22033:22086" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="22331:23420" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="22602:22935" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="22665:22929" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="23015:23152" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="23093:23146" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="23457:24535" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="23728:24057" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="23791:24051" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="24137:24274" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="24215:24268" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="24580:25452" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="25029:25439" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="25104:25434" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="25506:26083" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="26143:26693" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="26738:26826" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="26889:27202" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="27271:27369" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="27425:28472" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="28528:29698" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="28820:29186" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="28883:29180" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="29266:29402" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="29344:29396" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="29746:30857" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="30028:30373" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="30090:30368" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="30452:30582" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="30528:30577" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="30861:30967" ph="/**...*/" />
+            <marker date="1525979614100" expanded="true" signature="31040:31249" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="31101:31188" ph="//..." />
+            <marker date="1525979614100" expanded="true" signature="31339:31504" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="31516:31575" ph="/**...*/" />
+            <marker date="1525979614100" expanded="true" signature="31624:31700" ph="{...}" />
+            <marker date="1525979614100" expanded="true" signature="31710:31754" ph="/**...*/" />
+            <marker date="1525979614100" expanded="true" signature="31826:32668" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/PositionModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-31">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/AddPositionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="99" column="31" lean-forward="false" selection-start-line="99" selection-start-column="31" selection-end-line="99" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/DBAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/PlanModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3820">
-          <caret line="936" column="66" lean-forward="false" selection-start-line="936" selection-start-column="66" selection-end-line="936" selection-end-column="66" />
-          <folding>
-            <marker date="1528398934155" expanded="true" signature="3643:3824" ph="{...}" />
-          </folding>
+        <state relative-caret-position="344">
+          <caret line="951" column="34" lean-forward="false" selection-start-line="951" selection-start-column="34" selection-end-line="951" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/de/codenis/mdcs/DBHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="39" column="30" lean-forward="false" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>

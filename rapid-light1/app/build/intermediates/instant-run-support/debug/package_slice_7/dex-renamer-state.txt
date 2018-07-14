@@ -1,4 +1,4 @@
-#Thu Jun 07 20:37:11 CEST 2018
+#Wed Jul 11 18:31:32 CEST 2018
 base.0=D\:\\Android\\rapid-light1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
 path.0=classes.dex
 renamed.0=classes.dex
