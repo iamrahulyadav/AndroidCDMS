@@ -118,7 +118,8 @@ public class AddProjectActivity extends Activity {
 	        	visitor.setAdapter(adapter1);
 	        }
 	        getActionBar().setTitle("neues Projekt erstellen");
-	        projectId = getIntent().getExtras().getLong("id");
+	        projectId = getIntent().getExtras().getLong("projectId");
+			Toast.makeText(this, "projectID in Project "+projectId ,Toast.LENGTH_LONG).show();
 	        if(projectId > 0){
 	        	getActionBar().setTitle("Projekt bearbeiten");
 	        	ProjectModel ProjectDetails = dbAdapter.getProject(projectId);
@@ -466,7 +467,7 @@ public class AddProjectActivity extends Activity {
 
 
 	    public void openPdf(PlanModel planModel) throws ActivityNotFoundException, Exception {
-			String plan_path = planModel.plan_url;
+/*			String plan_path = planModel.plan_url;
 			Long planId = planModel.id;
 
 	    	if(plan_path != null){
@@ -475,7 +476,7 @@ public class AddProjectActivity extends Activity {
             if (file.exists()) {
                 Uri filepath = Uri.fromFile(file);
                 Intent intent = new Intent(Intent.ACTION_VIEW);
-                intent.setDataAndType(filepath, "application/pdf");
+                intent.setDataAndType(filepath, "image*//*");
                 intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 
                 try {
@@ -491,7 +492,16 @@ public class AddProjectActivity extends Activity {
 	    	}
 
 	    	if(planId>0)
-	  			updatePlanStatus(planId);
+	  			updatePlanStatus(planId);*/
+
+			if(planModel != null)
+				planId= planModel.id;
+			String plan_path = planModel.plan_url;
+			Intent editPlan = new Intent(AddProjectActivity.this, EditPlanActivity.class);
+			editPlan.putExtra("projectId", projectId);
+			editPlan.putExtra("planId", planId);
+			editPlan.putExtra("planUrl", plan_path);
+			startActivityForResult(editPlan,0);
 	    }
 
 	    public void updatePlanStatus(Long planId){
@@ -782,6 +792,7 @@ public class AddProjectActivity extends Activity {
 
 		if(Project.id > 0){
 			deleteFiles(Project.id+"_"+"plan"+number+".pdf",Config.pdfDir);
+			deleteFiles(Project.id+"_"+"plan"+number+".jpg",Config.pdfDir);
 		}
 	}
 

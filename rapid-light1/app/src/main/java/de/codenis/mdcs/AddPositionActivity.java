@@ -60,9 +60,9 @@ import android.widget.AdapterView.OnItemSelectedListener;
 		Button delete;
 		private Context mContext;
 		byte[] photo1InByte,photo2InByte;
-		long id, projectId, positionId=0;
+		long id, projectId, positionId=0,planId=0;
 		int count = 0;
-		String photo1Path=null,photo2Path=null,photoPath;
+		String photo1Path=null,photo2Path=null,photoPath,planUrl="";
 		Bitmap bmGallery;
 		ArrayList<String> substance, topic;
 		 private Uri fileUri;
@@ -111,7 +111,9 @@ import android.widget.AdapterView.OnItemSelectedListener;
 
 	        projectId = getIntent().getExtras().getLong("projectId");
 	        positionId = getIntent().getExtras().getLong("positionId");
-	        //Toast.makeText(this,projectId+" :Intent IDs: "+positionId, Toast.LENGTH_SHORT).show();
+			planId = getIntent().getExtras().getLong("planId");
+			planUrl = getIntent().getExtras().getString("planUrl");
+	        Toast.makeText(this,planId+" :Intent IDs: "+projectId, Toast.LENGTH_SHORT).show();
 	        if(positionId > 0){
 	        	
 	        	getActionBar().setTitle("Position bearbeiten");
@@ -493,7 +495,7 @@ import android.widget.AdapterView.OnItemSelectedListener;
 				if(i != -1)
 				{	
 
-					Toast.makeText(this, "position updated: "+i,Toast.LENGTH_LONG).show();
+					//Toast.makeText(this, "position updated: "+i,Toast.LENGTH_LONG).show();
 				
 				}else{
 					Toast.makeText(this, "Some problem in updating",Toast.LENGTH_LONG).show();
@@ -504,7 +506,8 @@ import android.widget.AdapterView.OnItemSelectedListener;
 				if(i != -1)
 				{
 					Intent addProject = new Intent(this, AddProjectActivity.class);
-					addProject.putExtra("id", projectId);
+					addProject.putExtra("projectId", projectId);
+					addProject.putExtra("planId", planId);
 					startActivityForResult(addProject,0);
 					Toast.makeText(this, "position saved successfully",Toast.LENGTH_LONG).show();
 				
@@ -536,9 +539,14 @@ import android.widget.AdapterView.OnItemSelectedListener;
 						// Do nothing but close the dialog
 
 						dialog.dismiss();
-						Intent addProject = new Intent(AddPositionActivity.this, AddProjectActivity.class);
-						addProject.putExtra("id", projectId);
-						startActivityForResult(addProject,0);
+						Intent intent;
+						if(planId >0 )
+							intent = new Intent(AddPositionActivity.this, EditPlanActivity.class);
+						else
+							intent = new Intent(AddPositionActivity.this, AddProjectActivity.class);
+						intent.putExtra("projectId", projectId);
+						intent.putExtra("planId", planId);
+						startActivityForResult(intent,0);
 					}
 				});
 
@@ -555,9 +563,15 @@ import android.widget.AdapterView.OnItemSelectedListener;
 				AlertDialog alert = builder.create();
 				alert.show();
 			}else{
-				Intent addProject = new Intent(AddPositionActivity.this, AddProjectActivity.class);
-				addProject.putExtra("id", projectId);
-				startActivityForResult(addProject,0);
+				Intent intent;
+				if(planId >0 )
+					intent = new Intent(AddPositionActivity.this, EditPlanActivity.class);
+				else
+					intent = new Intent(AddPositionActivity.this, AddProjectActivity.class);
+				intent.putExtra("projectId", projectId);
+				intent.putExtra("planId", planId);
+				intent.putExtra("planUrl", planUrl);
+				startActivityForResult(intent,0);
 			}
 	    }
 	    
@@ -578,7 +592,7 @@ import android.widget.AdapterView.OnItemSelectedListener;
 					{
 						Toast.makeText(mContext, i+ "Position gelöscht",Toast.LENGTH_LONG).show();
 						Intent addProject = new Intent(mContext, AddProjectActivity.class);
-				    	addProject.putExtra("id", projectId);
+				    	addProject.putExtra("projectId", projectId);
 						startActivityForResult(addProject,0);
 					}
 				}
@@ -666,10 +680,6 @@ import android.widget.AdapterView.OnItemSelectedListener;
 	        // get the file url
 	        fileUri = savedInstanceState.getParcelable("file_uri");
 	    }
-	  
-	     
-	
-	     
 
 	    	
 	    

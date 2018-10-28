@@ -172,10 +172,28 @@ public class DBAdapter
 		
 		return -1;
 	}
+
+	public List<PositionModel> getPlanPositions(long projectId, long planId){
+		String select = "SELECT * FROM " + POSITION_DATABASE_TABLE + " WHERE project_id = '" + projectId + "' AND plan_id = '" + planId + "'";
+		Log.d("my", "selecting Positions "+ select);
+		Cursor c = mDb.rawQuery(select, null);
+
+		List<PositionModel> positionList = new ArrayList<PositionModel>();
+
+		while (c.moveToNext()) {
+			positionList.add(populatePositionModel(c));
+		}
+
+		if (!positionList.isEmpty()) {
+			return positionList;
+		}
+
+		return null;
+	}
 	
 	public List<PositionModel> getPositions(long id) {
 		
-		String select = "SELECT * FROM " + POSITION_DATABASE_TABLE + " WHERE project_id = '" + id + "' ORDER BY cast(position_number as unsigned) ASC";
+		String select = "SELECT * FROM " + POSITION_DATABASE_TABLE + " WHERE project_id = '" + id + "'";
 		Log.d("my", "selecting Positions "+ select);
 		Cursor c = mDb.rawQuery(select, null);
 		
@@ -265,6 +283,11 @@ public class DBAdapter
 		model.priority = c.getInt(c.getColumnIndex("priority"));
 		model.photo1 = c.getString(c.getColumnIndex("photo1"));
 		model.photo2 = c.getString(c.getColumnIndex("photo2"));
+		if(c.getColumnIndex("plan_id")>0){
+			model.plan_id = c.getInt(c.getColumnIndex("plan_id"));
+			model.position_xo = c.getFloat(c.getColumnIndex("position_xo"));
+			model.position_yo = c.getFloat(c.getColumnIndex("position_yo"));
+		}
 		model.status = c.getString(c.getColumnIndex("status"));
 		model.server_position_id = c.getString(c.getColumnIndex("server_position_id"));
 		return model;
@@ -372,6 +395,7 @@ public class DBAdapter
 	private PlanModel populatePlanModel(Cursor c) {
 
 		PlanModel model = new PlanModel();
+		Log.d("my", "Plans name "+ c.getString(c.getColumnIndex("plan_name")));
 		model.id = c.getLong(c.getColumnIndex(KEY_ROW_ID));
 		model.server_plan_id = c.getString(c.getColumnIndex("server_plan_id"));
 		model.project_id = c.getInt(c.getColumnIndex("project_id"));
@@ -412,7 +436,7 @@ public class DBAdapter
 	
 	public ArrayList<String> get(String selectField, String Table)
 	{
-		String select = "SELECT * FROM " + Table+ " ORDER BY "+selectField+" COLLATE NOCASE ASC";
+		String select = "SELECT * FROM " + Table;	//+ " ORDER BY "+selectField+" ASC";
 		Log.d("my", select);
 		Cursor c = mDb.rawQuery(select, null);
 		

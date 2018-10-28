@@ -70,8 +70,6 @@ public class PlanListAdapter extends BaseAdapter{
 		TextView plan_name = (TextView) view.findViewById(R.id.plan_name);
 		plan_name.setText(model.plan_name);
 
-
-		
 		if(model.plan_url != null){
 
 			TextView plan_url = (TextView) view.findViewById(R.id.plan_url);

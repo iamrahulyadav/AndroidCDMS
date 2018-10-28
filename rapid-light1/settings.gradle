@@ -1,1 +1,2 @@
-include ':app'
+include ':app', ':photoeditor'
+project(':photoeditor').projectDir = new File('photoeditor')

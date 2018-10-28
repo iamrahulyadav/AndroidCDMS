@@ -15,5 +15,8 @@ public class PositionModel {
 	public String comment;
 	public String photo1;
 	public String photo2;
+	public int plan_id;
+	public float position_xo;
+	public float position_yo;
 	public String status;
 }

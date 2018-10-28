@@ -9,8 +9,8 @@ import android.util.Log;
 
 public class DBHelper extends SQLiteOpenHelper {
 
-	private static final String DATABASE_NAME = "mdcs-db1";
-	private static final int DATABASE_VERSION = 7;
+	private static final String DATABASE_NAME = "mdcs-db2";
+	private static final int DATABASE_VERSION = 9;
 	private static final String PROJECT_DATABASE_TABLE = "project";
 	private static final String POSITION_DATABASE_TABLE = "position";
 	private static final String PLAN_DATABASE_TABLE = "plan";
@@ -47,6 +47,9 @@ public class DBHelper extends SQLiteOpenHelper {
 			+ "comment text, "
 			+ "photo1 text, "
 			+ "photo2 text, "
+			+ "plan_id integer, "
+			+ "position_xo float, "
+			+ "position_yo float, "
 			+"status text);";
 
 	private static final String PLAN_DATABASE_CREATE = "create table "+PLAN_DATABASE_TABLE+"(_id integer primary key autoincrement, "

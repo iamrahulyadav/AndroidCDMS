@@ -80,6 +80,7 @@ public class AddPlanActivity extends Activity {
         getActionBar().setTitle("neue Plan erstellen");
 
         projectId = getIntent().getExtras().getLong("projectId");
+        Toast.makeText(this, "projectID in plan "+projectId ,Toast.LENGTH_LONG).show();
         planId = getIntent().getExtras().getLong("planId");
 
         if(planId > 0){
@@ -158,10 +159,12 @@ public class AddPlanActivity extends Activity {
         int result_code = 2;
         if(v.getId() == R.id.upload_plan)
             result_code = 2;
-        Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
+        /*Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
         intent.setType("application/pdf");
         intent.addCategory(Intent.CATEGORY_OPENABLE);
-
+        */
+        Intent intent = new Intent(Intent.ACTION_PICK,android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI);
+        intent.setType("image/*");
         try {
             startActivityForResult(Intent.createChooser(intent, "Select a File to Upload"), result_code);
         } catch (android.content.ActivityNotFoundException ex) {
@@ -184,10 +187,17 @@ public class AddPlanActivity extends Activity {
     }
 
     public void openPdfClick(View v) throws Exception {
-        Toast.makeText(this, "openPdfClick not found" ,Toast.LENGTH_LONG).show();
+        /*Toast.makeText(this, "openPdfClick not found" ,Toast.LENGTH_LONG).show();
         String pdfPath="";
         pdfPath = plan_url.getText().toString();
-        openPdf(pdfPath);
+        openPdf(pdfPath);*/
+        String planUrl="";
+        planUrl = plan_url.getText().toString();
+        Intent editPlan = new Intent(AddPlanActivity.this, EditPlanActivity.class);
+        editPlan.putExtra("projectId", projectId);
+        editPlan.putExtra("planId", planId);
+        editPlan.putExtra("planUrl", planUrl);
+        startActivityForResult(editPlan,0);
     }
 
     public void openPdf(String plan_path) throws ActivityNotFoundException, Exception {
@@ -249,9 +259,9 @@ public class AddPlanActivity extends Activity {
             if(i != -1)
             {
                 Intent addProject = new Intent(this, AddProjectActivity.class);
-                addProject.putExtra("id", projectId);
+                addProject.putExtra("projectId", projectId);
                 startActivityForResult(addProject,0);
-                Toast.makeText(this, "plan saved successfully",Toast.LENGTH_LONG).show();
+                Toast.makeText(this, projectId+"plan saved successfully"+ i,Toast.LENGTH_LONG).show();
 
             }else{
                 Toast.makeText(this, "Some problem in saving",Toast.LENGTH_LONG).show();
@@ -279,7 +289,7 @@ public class AddPlanActivity extends Activity {
 
                     dialog.dismiss();
                     Intent addProject = new Intent(AddPlanActivity.this, AddProjectActivity.class);
-                    addProject.putExtra("id", projectId);
+                    addProject.putExtra("projectId", projectId);
                     startActivityForResult(addProject,0);
                 }
             });
@@ -297,7 +307,7 @@ public class AddPlanActivity extends Activity {
             alert.show();
         }else{
             Intent addProject = new Intent(AddPlanActivity.this, AddProjectActivity.class);
-            addProject.putExtra("id", projectId);
+            addProject.putExtra("projectId", projectId);
             startActivityForResult(addProject,0);
         }
     }
@@ -321,7 +331,7 @@ public class AddPlanActivity extends Activity {
                 {
                     Toast.makeText(mContext, i+ "Plan gelöscht",Toast.LENGTH_LONG).show();
                     Intent addProject = new Intent(mContext, AddProjectActivity.class);
-                    addProject.putExtra("id", projectId);
+                    addProject.putExtra("projectId", projectId);
                     startActivityForResult(addProject,0);
                 }
             }
@@ -335,7 +345,8 @@ public class AddPlanActivity extends Activity {
     private void deletePlansImage(long project_id, String plan_id){
 
         if(project_id>0 && !plan_id.equalsIgnoreCase("")){
-            deleteFiles(project_id+"_"+plan_id+"_plan.pdf",Config.imageDir);
+            deleteFiles(project_id+"_"+plan_id+"_plan.pdf",Config.pdfDir);
+            deleteFiles(project_id+"_"+plan_id+"_plan.jpg",Config.pdfDir);
         }
     }
 

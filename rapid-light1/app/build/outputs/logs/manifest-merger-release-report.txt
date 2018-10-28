@@ -1,18 +1,32 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-42:12
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30ae5b06b8afcd1d9655de3ced21a623\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\14f0e04d55ffde512590813e7700a329\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\ec7142245ad974b83cc28d20653bf0f7\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\1794399dbd317c49522c5bf6ed00bd60\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\24b3ed5467e5a0bf04c943814d4b3061\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c42b9ba208c08741cd999307a0c850e4\AndroidManifest.xml:17:1-31:12
-INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-42:12
-INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-42:12
+ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b5f1f3cfc021d1fc64032d5724cefaaf\AndroidManifest.xml:17:1-22:12
+MERGED from [:photoeditor] D:\Android\rapid-light1\photoeditor\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\b27350b7ad314996175e8c5aa5b02be3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4291c1e44068bbc9cc74505e1f4e9540\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\43cc99fd7b52a2d0afe4c85fb4502fd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\d834331092ae6ff8ad1c8aa55bee7d70\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\3de9382601d0de5ff2fbc0ac51c1f45d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5da6c0ca2663721e130c9042d7255f2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6d339794c1b5ac2144d7170b2bbb786f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5c0a8eab0ffc31b4e1723fe759ed2c4d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\763341ee1d2a99f1779f0623db6979a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a03bbd31316092c3bb3f62463308c015\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a56caa046c9f7b501901ef4c8674fc29\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\df926f997150ce87b5f6181436aa82aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\95608635c2308843b57f5d537b6db06f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2aca35ee702a65b1e06aaf57bcce9fbe\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d2569724e6737755a5d3d3f968502f98\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\19bf1e3c506fe87f6dacee4815301f49\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e0208df8ff31f8953cfa5f28cfc4e999\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5d19028a15b31252659bc9d47210b656\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:2:1-49:12
 	package
 		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:3:5-30
 		INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml
@@ -31,22 +45,48 @@ uses-sdk
 ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30ae5b06b8afcd1d9655de3ced21a623\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30ae5b06b8afcd1d9655de3ced21a623\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\14f0e04d55ffde512590813e7700a329\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\14f0e04d55ffde512590813e7700a329\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\ec7142245ad974b83cc28d20653bf0f7\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\ec7142245ad974b83cc28d20653bf0f7\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\1794399dbd317c49522c5bf6ed00bd60\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\1794399dbd317c49522c5bf6ed00bd60\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\24b3ed5467e5a0bf04c943814d4b3061\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\24b3ed5467e5a0bf04c943814d4b3061\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c42b9ba208c08741cd999307a0c850e4\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c42b9ba208c08741cd999307a0c850e4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b5f1f3cfc021d1fc64032d5724cefaaf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b5f1f3cfc021d1fc64032d5724cefaaf\AndroidManifest.xml:20:5-44
+MERGED from [:photoeditor] D:\Android\rapid-light1\photoeditor\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:photoeditor] D:\Android\rapid-light1\photoeditor\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\b27350b7ad314996175e8c5aa5b02be3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v13-27.1.1.aar\b27350b7ad314996175e8c5aa5b02be3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4291c1e44068bbc9cc74505e1f4e9540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\4291c1e44068bbc9cc74505e1f4e9540\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\43cc99fd7b52a2d0afe4c85fb4502fd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\43cc99fd7b52a2d0afe4c85fb4502fd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\d834331092ae6ff8ad1c8aa55bee7d70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\d834331092ae6ff8ad1c8aa55bee7d70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\3de9382601d0de5ff2fbc0ac51c1f45d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\3de9382601d0de5ff2fbc0ac51c1f45d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5da6c0ca2663721e130c9042d7255f2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\5da6c0ca2663721e130c9042d7255f2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6d339794c1b5ac2144d7170b2bbb786f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\6d339794c1b5ac2144d7170b2bbb786f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5c0a8eab0ffc31b4e1723fe759ed2c4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5c0a8eab0ffc31b4e1723fe759ed2c4d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\763341ee1d2a99f1779f0623db6979a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\763341ee1d2a99f1779f0623db6979a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a03bbd31316092c3bb3f62463308c015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\a03bbd31316092c3bb3f62463308c015\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a56caa046c9f7b501901ef4c8674fc29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a56caa046c9f7b501901ef4c8674fc29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\df926f997150ce87b5f6181436aa82aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\df926f997150ce87b5f6181436aa82aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\95608635c2308843b57f5d537b6db06f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\95608635c2308843b57f5d537b6db06f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2aca35ee702a65b1e06aaf57bcce9fbe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\2aca35ee702a65b1e06aaf57bcce9fbe\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d2569724e6737755a5d3d3f968502f98\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d2569724e6737755a5d3d3f968502f98\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\19bf1e3c506fe87f6dacee4815301f49\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\19bf1e3c506fe87f6dacee4815301f49\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e0208df8ff31f8953cfa5f28cfc4e999\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e0208df8ff31f8953cfa5f28cfc4e999\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5d19028a15b31252659bc9d47210b656\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5d19028a15b31252659bc9d47210b656\AndroidManifest.xml:20:5-44
 INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:7:5-9:41
 INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:7:5-9:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30ae5b06b8afcd1d9655de3ced21a623\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
 		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:9:9-38
 		INJECTED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml
@@ -78,82 +118,78 @@ ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:16:5-65
 	android:name
 		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:16:22-62
 application
-ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:18:5-40:19
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30ae5b06b8afcd1d9655de3ced21a623\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30ae5b06b8afcd1d9655de3ced21a623\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\14f0e04d55ffde512590813e7700a329\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\14f0e04d55ffde512590813e7700a329\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\ec7142245ad974b83cc28d20653bf0f7\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\ec7142245ad974b83cc28d20653bf0f7\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\1794399dbd317c49522c5bf6ed00bd60\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\1794399dbd317c49522c5bf6ed00bd60\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\24b3ed5467e5a0bf04c943814d4b3061\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\24b3ed5467e5a0bf04c943814d4b3061\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c42b9ba208c08741cd999307a0c850e4\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c42b9ba208c08741cd999307a0c850e4\AndroidManifest.xml:29:5-20
+ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:18:5-47:19
+MERGED from [:photoeditor] D:\Android\rapid-light1\photoeditor\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-14:38
+MERGED from [:photoeditor] D:\Android\rapid-light1\photoeditor\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-14:38
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\d834331092ae6ff8ad1c8aa55bee7d70\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\d834331092ae6ff8ad1c8aa55bee7d70\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from [:photoeditor] D:\Android\rapid-light1\photoeditor\build\intermediates\manifests\full\release\AndroidManifest.xml:14:9-35
 	android:label
 		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:21:9-41
+	android:hardwareAccelerated
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:23:9-44
+	android:largeHeap
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:22:9-33
 	android:icon
 		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:20:9-51
 	android:allowBackup
 		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:19:9-35
 	android:theme
-		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:22:9-40
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:24:9-40
 activity#de.codenis.mdcs.SplashScreen
-ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:23:9-31:20
+ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:25:9-33:20
 	android:label
-		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:25:13-45
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:27:13-45
 	android:name
-		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:24:13-56
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:26:13-56
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:26:13-30:29
+ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:28:13-32:29
 action#android.intent.action.MAIN
-ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:27:17-69
+ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:29:17-69
 	android:name
-		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:27:25-66
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:29:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:29:17-77
+ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:29:27-74
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:31:27-74
 activity#de.codenis.mdcs.LoginActivity
-ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:32:9-65
+ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:34:9-65
 	android:name
-		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:32:19-63
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:34:19-63
 activity#de.codenis.mdcs.MainActivity
-ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:33:9-64
+ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:35:9-64
 	android:name
-		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:33:19-62
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:35:19-62
 activity#de.codenis.mdcs.AddProjectActivity
-ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:34:9-35:76
-	android:configChanges
-		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:35:13-74
-	android:name
-		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:34:19-68
-activity#de.codenis.mdcs.AddPlanActivity
 ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:36:9-37:76
 	android:configChanges
 		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:37:13-74
 	android:name
-		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:36:19-65
-activity#de.codenis.mdcs.AddPositionActivity
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:36:19-68
+activity#de.codenis.mdcs.AddPlanActivity
 ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:38:9-39:76
 	android:configChanges
 		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:39:13-74
 	android:name
-		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:38:19-69
-meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30ae5b06b8afcd1d9655de3ced21a623\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\14f0e04d55ffde512590813e7700a329\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\14f0e04d55ffde512590813e7700a329\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\ec7142245ad974b83cc28d20653bf0f7\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\ec7142245ad974b83cc28d20653bf0f7\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\1794399dbd317c49522c5bf6ed00bd60\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\1794399dbd317c49522c5bf6ed00bd60\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\24b3ed5467e5a0bf04c943814d4b3061\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\24b3ed5467e5a0bf04c943814d4b3061\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c42b9ba208c08741cd999307a0c850e4\AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\c42b9ba208c08741cd999307a0c850e4\AndroidManifest.xml:25:5-27:41
-	android:value
-		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30ae5b06b8afcd1d9655de3ced21a623\AndroidManifest.xml:27:9-38
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:38:19-65
+activity#de.codenis.mdcs.AddPositionActivity
+ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:40:9-41:76
+	android:configChanges
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:41:13-74
 	android:name
-		ADDED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\jetan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\30ae5b06b8afcd1d9655de3ced21a623\AndroidManifest.xml:26:9-47
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:40:19-69
+activity#de.codenis.mdcs.EditPlanActivity
+ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:42:9-43:76
+	android:configChanges
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:43:13-74
+	android:name
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:42:19-66
+activity#de.codenis.mdcs.EditPlan1Activity
+ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:44:9-46:76
+	android:configChanges
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:46:13-74
+	android:theme
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:45:13-69
+	android:name
+		ADDED from D:\Android\rapid-light1\app\src\main\AndroidManifest.xml:44:19-67

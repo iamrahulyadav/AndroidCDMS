@@ -126,7 +126,7 @@ public class MainActivity extends Activity {
 		if (id == R.id.add_project) {
 
 			Intent addProject = new Intent(this, AddProjectActivity.class);
-	        addProject.putExtra("id", 0);
+	        addProject.putExtra("projectId", 0);
 	    	startActivityForResult(addProject,0);
 	        return true;
 	    }else if(id == R.id.upload_project) {
@@ -531,6 +531,7 @@ public class MainActivity extends Activity {
 
 		if(project_id > 0){
 			deleteProjectsFile(project_id+"_"+"plan"+number+".pdf",Config.pdfDir);
+			deleteProjectsFile(project_id+"_"+"plan"+number+".jpg",Config.pdfDir);
 		}
 	}
 
@@ -752,11 +753,12 @@ public class MainActivity extends Activity {
 				}
 			}
 		}else{
-			//Toast.makeText(this," No position to upload!!", Toast.LENGTH_LONG).show();
+			//Toast.makeText(this," No plans to upload!!", Toast.LENGTH_LONG).show();
 		}
 	}
 
 	public void uploadPositions(long id, int server_project_id) throws JSONException, IOException {
+
 		Log.d("my", "uploadingPositions");
 		ServerConnection sc = new ServerConnection();
 		List<PositionModel> positionList = dbAdapter.getLocalPositions(id);
@@ -817,7 +819,7 @@ public class MainActivity extends Activity {
 				}
 				
 		}else{
-			//Toast.makeText(this," No position to upload!!", Toast.LENGTH_LONG).show();
+		//	Toast.makeText(this," No position to upload!!", Toast.LENGTH_LONG).show();
 		}
 	}
 	
@@ -1102,7 +1104,7 @@ public class MainActivity extends Activity {
 	
 	public void startDetailActivity(long id) {
     	Intent intent = new Intent(this, AddProjectActivity.class);
-		intent.putExtra("id", id);
+		intent.putExtra("projectId", id);
 		startActivityForResult(intent,0);
 	}
 }

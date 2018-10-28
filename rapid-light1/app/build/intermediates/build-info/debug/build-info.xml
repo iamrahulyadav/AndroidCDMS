@@ -5,36 +5,41 @@
     build-mode="COLD"
     density="hdpi"
     format="10"
+    ir-eligibility="COMPATIBLE"
     plugin-version="3.0.1"
-    timestamp="1531326747135"
+    timestamp="1540242811395"
     token="-831158706785982057"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="693" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="34" />
     <task
         name="verifier"
-        duration="0" />
+        duration="15" />
+
+    <artifact
+        location="D:\Android\rapid-light1\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+        type="SPLIT" />
 
     <build
         build-mode="FULL"
-        timestamp="1531325507789"
+        timestamp="1540239648422"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\Android\rapid-light1\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Android\rapid-light1\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="D:\Android\rapid-light1\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="D:\Android\rapid-light1\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            location="D:\Android\rapid-light1\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="D:\Android\rapid-light1\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
@@ -67,15 +72,11 @@
     <build
         build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1531326690419"
+        timestamp="1540242811395"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="D:\Android\rapid-light1\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1531326747135"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

@@ -2,3 +2,14 @@ rapid-light1/.gradle/
 rapid-light1/.idea/
 rapid-light1/app/build/
 rapid-light1/build/
+rapid-light1/gradle/
+.gradle/
+gradle/
+.idea/
+app/build/
+build/
+.gradle/*
+.idea/*
+app/build/*
+build/*
+gradle/*

@@ -149,7 +149,7 @@ public class ServerConnection {
         	    if(directory.exists()){
         	    	if(name.equals(""))
         	    		name = System.currentTimeMillis()+"";
-        	    	 pdfFile = new File(directory,name+".pdf");
+        	    	 pdfFile = new File(directory,name+".jpg");
         	    	 FileOutputStream file = new FileOutputStream(pdfFile);
 	   	             URL url = new URL(fileURL);
 	   	             HttpURLConnection connection = (HttpURLConnection) url .openConnection();

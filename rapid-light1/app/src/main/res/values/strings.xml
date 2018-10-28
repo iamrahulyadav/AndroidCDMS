@@ -38,7 +38,7 @@
     <string name="priority">Sanierungsdringlichkeit</string>
      <string name="degree">Ausmass</string>
      <string name="remark">Bemerkung</string>
-  
+
          
     <string-array name="visitor_list">
         	<item>No entries</item>
